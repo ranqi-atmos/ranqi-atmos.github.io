@@ -1,0 +1,90 @@
+[
+  {
+    "alt": "",
+    "title": "Anthropogenic forcing and subtropical anticyclonic drivers of the August 2022 heatwave in China",
+    "authors": [
+      { "name": "Wenjun Liang" },
+      { "name": "Chenhao Li" },
+      { "name": "Yifan Wu" },
+      { "name": "Meng Zou" },
+      { "name": "Xian Zhu" },
+      { "name": "Wenjie Dong" },
+      { "name": "John C Moore" },
+      { "name": "Fei Liu" },
+      { "name": "Shaobo Qiao" },
+      { "name": "Tianyun Dong" },
+      { "name": "Kaixi Wang" },
+      { "name": "Dong Chen" },
+      { "name": "Qi Ran", "extraClass": "zx" }
+    ],
+    "venue": { "name": "Weather and Climate Extremes 2024" },
+    "url": "https://doi.org/10.1016/j.wace.2024.100707",
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "alt": "",
+    "title": "Double intensification centers of summer marine heatwaves in the South China Sea associated with global warming",
+    "authors": [
+      { "name": "Tianyun Dong" },
+      { "name": "Fei Liu" },
+      { "name": "Wenjie Dong" },
+      { "name": "Qi Ran", "extraClass": "zx" },
+      { "name": "Xian Zhu" },
+      { "name": "Shijian Hu" },
+      { "name": "Yulong Yao" },
+      { "name": "Hui Shi" }
+    ],
+    "venue": { "name": "Climate Dynamics 2024" },
+    "url": "https://doi.org/10.1007/s00382-024-07247-6",
+    "year": "2024",
+    "featured": false
+  },
+  {
+    "alt": "",
+    "title": "Statistical bias correction for CESM-simulated PM2. 5",
+    "authors": [
+      { "name": "Qi Ran", "extraClass": "zx" },
+      { "name": "John Moore" },
+      { "name": "Tianyun Dong" },
+      { "name": "Shao-Yi Lee" },
+      { "name": "Wenjie Dong" }
+    ],
+    "venue": { "name": "Environmental Research Communications 2023" },
+    "url": "https://doi.org/10.1088/2515-7620/acf917",
+    "year": "2023",
+    "featured": true
+  },
+  {
+    "alt": "",
+    "title": "Potential health and economic impacts of shifting manufacturing from China to Indonesia or India",
+    "authors": [
+      { "name": "Qi Ran", "extraClass": "zx" },
+      { "name": "Shao-Yi Lee" },
+      { "name": "Duofan Zheng" },
+      { "name": "Han Chen" },
+      { "name": "Shili Yang" },
+      { "name": "John C Moore" },
+      { "name": "Wenjie Dong" }
+    ],
+    "venue": { "name": "Science of The Total Environment 2023" },
+    "url": "https://doi.org/10.1016/j.scitotenv.2022.158634",
+    "year": "2023",
+    "featured": true
+  },
+  {
+    "alt": "",
+    "title": "Economic shock in a climate scenario and its impact on surface temperatures",
+    "authors": [
+      { "name": "Qi Ran", "extraClass": "zx" },
+      { "name": "Shao‐Yi Lee" },
+      { "name": "John C Moore" },
+      { "name": "Chao Min" },
+      { "name": "Wenjie Dong" }
+    ],
+    "venue": { "name": "Earth's Future 2021" },
+    "url": "https://doi.org/10.1029/2021EF002061",
+    "year": "2021",
+    "featured": true
+  }
+]
