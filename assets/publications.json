@@ -1,6 +1,29 @@
 [
   {
     "alt": "",
+    "title": "Rising military spending jeopardizes climate targets",
+    "authors": [
+      { "name": "Wenjie Dong*" },
+      { "name": "Qi Ran*", "extraClass": "zx" },
+      { "name": "Fei Liu" },
+      { "name": "Rong Deng" },
+      { "name": "Jie Yang" },
+      { "name": "Kaixi Wang" },
+      { "name": "Xinyue Wang" },
+      { "name": "Duofan Zheng" },
+      { "name": "Chenhao Li" },
+      { "name": "Wenjun Liang" },
+      { "name": "Jieming Chou" },
+      { "name": "Wenping Yuan" },
+      { "name": "Deliang Chen" }
+    ],
+    "venue": { "name": "Nature Communications" },
+    "url": "https://doi.org/10.1038/s41467-025-59877-x",
+    "year": "2025",
+    "featured": true
+  },
+  {
+    "alt": "",
     "title": "Anthropogenic forcing and subtropical anticyclonic drivers of the August 2022 heatwave in China",
     "authors": [
       { "name": "Wenjun Liang" },
